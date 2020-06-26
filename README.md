@@ -7,4 +7,4 @@ Funções extras disponíveis na aplicação:
 * Quando o usuário não digita uma mensagem no respectivo campo, o comentário não é postado
 * Quando o usuário não digita o nome no respectivo campo, o comentário é postado como "Anônimo"
 
-** O arquivo 'index.html' na raíz foi feito usando a cdn Vue e a pasta 'vuejs-cli' com Vue CLI **
+**O arquivo 'index.html' na raíz foi feito usando a cdn Vue e a pasta 'vuejs-cli' com Vue CLI**
