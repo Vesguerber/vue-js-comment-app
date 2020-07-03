@@ -8,3 +8,5 @@ Funções extras disponíveis na aplicação:
 * Quando o usuário não digita o nome no respectivo campo, o comentário é postado como "Anônimo"
 
 **O arquivo 'index.html' na raíz foi feito usando a cdn Vue e a pasta 'vuejs-cli' com Vue CLI**
+
+Todos os arquivos foram programados em uma hora e meia.
